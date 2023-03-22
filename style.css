@@ -426,13 +426,8 @@ body{
     }
     .toggle{
         position: absolute;
+        margin-right: 90px;
         z-index: 1001;
-    }
-    .main.active .toggle{
-        color: var(--white);
-        right: 0;
-        left: initial;
-        position:fixed;
     }
     .search label{
         left: 50px;
