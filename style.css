@@ -424,7 +424,8 @@ body{
         left: 0;
     }
     .toggle{
-        z-index: 1001;
+        z-index: 1002;
+        right: 40px;
     }
     .main.active .toggle{
         color: var(--white);
